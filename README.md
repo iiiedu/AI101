@@ -5,10 +5,12 @@
 ## 如果你是因為不夠專業而不想學AI
 ## 如果你是因為不夠學費而不想學AI
 ## 趕快報名AI 101 種子師資培訓班！
-
+![I want you](https://i.pinimg.com/originals/a6/4d/c4/a64dc48040a297ff4fb89fb3cf888f43.jpg)
 ## 課程特色
 ### 線上影片、實作Lab、重點考題一應俱全
-### 國際大廠掛保證、每季定期更新、矽谷專業製作  
+![on-line platform](https://image.ibb.co/gOO9kz/2018_08_17_12_25_10.png)
+### 國際大廠掛保證、每季定期更新、矽谷專業製作
+![MPP-AI](https://image.ibb.co/iSQpkz/2018_08_17_12_30_30.png)
 ### 獨家全程贊助，用你的實力、毅力證明一切
 ## 招生對象
 ### 大專院校教授、學校教師、訓練中心講師
@@ -36,6 +38,12 @@
 10. 對話介面應用開發
 11. 認知服務應用開發
 12. 專題製作
+## 課程洽詢
+### [Ryan Chung](mailto:ryan@iii.org.tw) (02)6631-6555、[Nico Lai](mailto:wl9208@iii.org.tw) (02)6631-6593
+## 線上報名
+
+
+
 
 
 
